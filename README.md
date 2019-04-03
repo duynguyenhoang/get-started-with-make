@@ -1,2 +1,3 @@
-# get-started-with-make
-Get started with Make and Python
+# Ví dụ về cách sử dụng Make và Python
+
+Chi tiết xem tại https://medium.com/@nhduy88
